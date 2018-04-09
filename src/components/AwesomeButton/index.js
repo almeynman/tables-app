@@ -1,5 +1,1 @@
-// @flow
-
-import AwesomeButton from './AwesomeButton'
-
-export default AwesomeButton
+export default from './AwesomeButton'
